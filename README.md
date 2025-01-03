@@ -6,9 +6,13 @@ This project is a **Product Preview Card Component**, showcasing a clean and res
 
 This is a screenshot of my project:
 
-![Screenshot of my project](./design/desktop-preview.jpg)
-![Screenshot of my project](./design/mobile-design.jpg)
+Screenshot of my project:
 
+Desktop:
+<img src="./design/desktop-preview.jpg" alt="Product Screenshot" width="500" />
+
+Mobile:
+<img src="./design/mobile-design.jpg" alt="Product Screenshot" />
 
 ## 📜 Features
 
@@ -26,3 +30,4 @@ product_preview_card_component/
 ├── index.html         # Main HTML file
 ├── style.css          # Stylesheet
 └── README.md          # Documentation
+```
