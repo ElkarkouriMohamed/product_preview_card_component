@@ -4,6 +4,10 @@ This project is a **Product Preview Card Component**, showcasing a clean and res
 
 ---
 
+This is a screenshot of my project:
+
+![Screenshot of my project](./images/image-product-desktop.jpg)
+
 ## 📜 Features
 
 - **Responsive Design**: Adjusts seamlessly to different screen sizes.
